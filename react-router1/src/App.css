@@ -1,0 +1,109 @@
+.MainForm {
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  border: solid 1px skyblue;
+  text-align: center;
+  width:700px;
+  padding: auto 10px;
+  margin: 50px auto;
+  border-radius: 5px;
+  font-size: 14p;
+  transition-duration: 4s;
+}
+
+.StatusForm {
+  text-align: left;
+  padding-left: 20px;
+  line-height: 50px;
+}
+
+.HeaderForm {
+  display: flex;
+  border-bottom: solid 1px skyblue;
+  background: rgb(210, 244, 247);
+  font-size: 20px;
+}
+
+.NextButton{
+  color: white;
+  width: 120px;
+  height: 40px;
+  background-color: rgb(12, 236, 188);
+  border: solid 1px rgb(0, 255, 188);
+  border-radius: 5px;
+  line-height: 40px;
+  padding: 10px;
+  margin-left: 600px;
+  cursor: pointer;
+}
+
+.NextButton1{
+  color: white;
+  width: 120px;
+  height: 40px;
+  background-color: rgb(12, 236, 188);
+  border: solid 1px rgb(0, 255, 188);
+  border-radius: 5px;
+  line-height: 40px;
+  padding: 10px;
+  margin-left: 480px;
+  cursor: pointer;
+}
+
+.NextButton2{
+  color: white;
+  width: 120px;
+  height: 40px;
+  background-color: rgb(12, 236, 188);
+  border: solid 1px rgb(0, 255, 188);
+  border-radius: 5px;
+  line-height: 40px;
+  padding: 10px;
+  margin-left: 120px;
+  cursor: pointer;
+}
+
+.MainPullDown{
+  display: flex;
+}
+
+.Step {
+  color: white;
+  border: solid 1px rgb(122, 195, 238);
+  background: rgb(122, 195, 238);
+  border-radius: 5px;
+  width: 60px;
+  font-size: 14px;
+  height: 20px;
+}
+
+.Title{
+  margin-top: 5px;
+  padding-left: 140px;
+}
+
+.Title2{
+  margin-top: 5px;
+  padding-left: 200px;
+}
+
+.Title3{
+  margin-top: 5px;
+  padding-left: 160px;
+}
+
+.time{
+  margin: 0 10px;
+  font-size: 14px;
+}
+
+select{
+  width: auto;
+  height: 25px;
+  border-radius: 5px;
+}
+
+
+textarea{
+  width: 650px;
+  height: 300px;
+}
